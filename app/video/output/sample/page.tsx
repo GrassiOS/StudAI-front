@@ -39,7 +39,7 @@ const sampleResult: GeneratedVideoResult = {
   
   Si jugas con llaves, acabarás abriendo la puerta… a todos.`,
     audio_url: 'https://studai.blob.core.windows.net/audio/53deb1bc-3fda-46df-b0be-97d358c3ffe1_Clase_01.pdf_spanish.mp3?se=2025-11-10T16%3A48%3A46Z&sp=r&sv=2025-11-05&sr=b&sig=EPRRAnko6/QV/poj2dfUCtVTwYXMIoXj12Zpbbo%2BLFE%3D',
-    video_url: 'https://studai.blob.core.windows.net/videos/f192abe9-9af4-427e-bcdb-6864d9e73510_IA_Clase_04%20-%20Tipos%20de%20Programas%20de%20Agentes%20Inteligentes.pdf_final_video_spanish.mp4?se=2025-11-11T20%3A45%3A32Z&sp=r&sv=2025-11-05&sr=b&sig=2amT26mBSJ/fgojNLHcdMj%2BPeNPg7gDIcpwBVSZCWTc%3D'
+    video_url: 'https://studai.blob.core.windows.net/videos/53deb1bc-3fda-46df-b0be-97d358c3ffe1_Clase_01.pdf_final_video_spanish.mp4?sp=r&st=2025-11-23T23:12:54Z&se=2025-12-01T07:27:54Z&sv=2024-11-04&sr=b&sig=S5GX8bnndn%2F9Ss94Ng8NHQepC9kAmvc7RZ%2BQHgI37MQ%3D'
   };
   
 
